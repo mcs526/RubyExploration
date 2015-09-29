@@ -1,0 +1,2 @@
+puts "This is my test of a basic Ruby command"
+print 3**2
